@@ -1,0 +1,8 @@
+    Allow the user to specify the width and height of the output ASCII art, rather than hard-coding the values.
+    Add the option to invert the grayscale image, so that the darker pixels become lighter and vice versa.
+    Allow the user to specify the brightness threshold values for each ASCII character, so that they can fine-tune the output to their liking.
+    Add the ability to rotate the image before converting it to ASCII art.
+    Add the ability to crop the image before converting it to ASCII art
+    Provide an option to use a different set of characters or symbol to represent the different brightness levels
+    Allow the user to change the output format (eg. pdf, png)
+    Provide a way to change the input and output file name on command line arguments.
